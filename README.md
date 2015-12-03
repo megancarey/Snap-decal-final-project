@@ -1,1 +1,1 @@
-This is the source code for the Snap! Virtual programming language.
+Team members: Bao Xie, 
